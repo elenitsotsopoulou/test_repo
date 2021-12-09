@@ -1,0 +1,1 @@
+print('paper is accepted')
